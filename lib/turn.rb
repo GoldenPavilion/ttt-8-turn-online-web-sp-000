@@ -1,5 +1,8 @@
-display_board(board)
+def display_board(board)
 end 
 
-valid_move?
+def valid_move?
+end
+
+def move 
 end
